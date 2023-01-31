@@ -1,0 +1,84 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 21.05.2022 08:59
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.4.3
+WORDPRESS:	5.9.3
+PHP INFO:	7.4.21 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (1536M default) 
+MEMORY STACK: 10MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 2021125_salyut_06b6809922a71c258102_20220521085854_database.sql
+SQL FILE SIZE: 1.2MB (1260856)
+SQL FILE TIME: 2022-05-21 08:59:04
+SQL RUNTIME: 1.05 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  D:/OpenServer/domains/salyut
+ARCHIVE FILE: 2021125_salyut_06b6809922a71c258102_20220521085854_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	136.55MB
+STATS:	Dirs 1,201 | Files 7,957
+SQL ADDED: 2021125_salyut_06b6809922a71c258102_20220521085854_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 9158
+    [filename] => D:\OpenServer\domains\salyut\wp-content\backups-dup-lite\tmp\2021125_salyut_06b6809922a71c258102_20220521085854_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 9157
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 53.22MB
+ARCHIVE RUNTIME: 31.71 sec.
+MEMORY STACK: 14MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip D:/OpenServer/domains/salyut/wp-content/backups-dup-lite/tmp/2021125_salyut_06b6809922a71c258102_20220521085854_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 1.2MB
+INSTALLER FILE: 64.25KB
+ARCHIVE FILE: 54.25MB 
+EXPECTED FILE/DIRECTORY COUNT: 9,158
+ACTUAL FILE/DIRECTORY COUNT: 9,157
+ТЕСТ ЛОГИКИ АРХИВА: Пройден
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 33.96 sec.
+PEAK PHP MEMORY USED: 14MB
+DONE PROCESSING => 2021125_salyut 21.05.2022 08:59
+
